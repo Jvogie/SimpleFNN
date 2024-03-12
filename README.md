@@ -39,6 +39,7 @@ sh
 ./simple_ann
 
 This will train the neural network on a predefined dataset (included in main()) and evaluate its accuracy.
+
 Customizing the Model
 
 You can customize the neural network by modifying the layerSizes parameter in the SimpleAnn constructor within main(). Each element in the layerSizes vector represents the number of neurons in each layer, including the input and output layers.
