@@ -3,6 +3,7 @@
 Simple ANN in C++
 
 A minimal implementation of a feed-forward neural network (FNN) from scratch in C++, utilizing the Eigen library for matrix operations. This project is intended as an educational tool to demonstrate the basics of neural network architecture, including forward propagation, backpropagation, training, and evaluation.
+
 Features
 
     Feed-forward Propagation: Processes inputs through sequential layers to predict outputs.
